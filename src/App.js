@@ -1,5 +1,5 @@
 import "./App.css";
-import { BrowserRouter as Router, Route ,Link, Routes} from "react-router-dom";
+import { BrowserRouter as Router, Route , Routes} from "react-router-dom";
 import Slider from "./components/Slider";
 import Offers from "./components/Offers.js"
 import PreNavbar from "./components/PreNavbar";

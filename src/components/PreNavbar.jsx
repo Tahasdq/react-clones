@@ -11,9 +11,9 @@ const PreNavbar = () => {
         <a href="www.google.com" target="_blank">REATAIL STORE</a>
       </div>
       <div>
-        <a href="#">SIGN IN</a><span></span>
-        <a href="#">SIGN UP</a><span></span>
-        <a href="#">CART (0)</a><span></span>
+        <a href="www.google.com">SIGN IN</a><span></span>
+        <a href="www.google.com">SIGN UP</a><span></span>
+        <a href="www.google.com">CART (0)</a><span></span>
       </div>
     </div>
   )
